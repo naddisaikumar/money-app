@@ -1,0 +1,17 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.history-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.history-paragraph {
+  padding: 20px;
+}

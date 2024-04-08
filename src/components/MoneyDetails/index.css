@@ -1,0 +1,14 @@
+/* Write your CSS here */
+
+const MoneyDetails=(props)=>{
+    const {each}=props 
+    const {optionId,displayText}=each 
+    return (
+        <li>
+        </li>
+
+    )
+}
+
+
+export default MoneyDetails
